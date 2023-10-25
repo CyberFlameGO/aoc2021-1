@@ -11,4 +11,4 @@ marshmallow==3.13.0
 pytz==2021.1
 six==1.16.0
 webargs==8.0.1
-Werkzeug==2.0.1
+Werkzeug==3.0.1
